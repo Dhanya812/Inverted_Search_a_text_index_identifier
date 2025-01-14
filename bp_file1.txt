@@ -1,0 +1,13 @@
+#0;am;1;f1.txt;1#
+#0;are;1;f2.txt;1#
+#4;Emertxe;1;f1.txt;1#
+#6;good;1;f1.txt;1#
+#7;hello;2;f1.txt;1;f2.txt;1#
+#7;hi;1;f2.txt;2#
+#7;how;1;f2.txt;2#
+#8;i;1;f1.txt;1#
+#8;in;1;f1.txt;1#
+#12;morning;1;f1.txt;1#
+#18;studying;1;f1.txt;1#
+#26;@abc;1;f1.txt;1#
+#26;%123;1;f1.txt;1#
